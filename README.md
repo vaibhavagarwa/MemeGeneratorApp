@@ -1,3 +1,18 @@
+## Existing Features -
+
+1. Can fetch image form API 
+2. Can add text at top and bottom of image
+
+
+## Features to be added 
+
+1. One can upload any desired image 
+2. Can resize the image based on requirements
+3. Can add text anywhere on image
+4. Can also format the added text 
+5. Can either download or share image on social media channels after submitting email address
+
+
 <img src="https://raw.githubusercontent.com/vaibhavagarwa/MemeGeneratorApp/master/App%20Image.jpg"></img>
 
 
